@@ -1,0 +1,58 @@
+.parent-div {
+  margin-bottom: 50px;
+}
+
+.icon {
+  color: aliceblue;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  top: -20px;
+  left: 210px;
+  width: 27px;
+  height: 24px;
+  padding: 11px;
+  background-color: black;
+  border-Radius: 100%;
+}
+
+.block {
+  width: 417px;
+  height: 314px;
+  background-Color: rgb(246, 248, 246);
+  border: 3px solid black;
+  padding: 9px;
+  border-Radius: 30px;
+}
+
+.image {
+  border-radius: 30px;
+  height: 287px;
+  width: 396px;
+  display: flex;
+  position: relative;
+  top: -30px;
+
+}
+
+h1 {
+  margin: 10px;
+  font-size: 40px;
+  color: rgb(1, 1, 59);
+}
+
+.search {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  width: 540px;
+  height: 7px;
+  background-Color: rgb(246, 248, 246);
+  border: 3px solid black;
+  padding: 21px;
+  border-Radius: 30px;
+  margin-top: 10px;
+  bottom: -80px;
+  margin-bottom: 150px;
+  font-size: 16px;
+}
